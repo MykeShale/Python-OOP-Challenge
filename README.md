@@ -72,6 +72,10 @@ This project was developed as part of the *PLP Academy Group Assignment*. Below 
 - *GitHub*: [@Viona-1](https://github.com/Viona-1)
 
 #### Francis Njuguna
-
 - *Role*:  Member
 - *GitHub*: [@Francis-Njuguna](https://github.com/Francis-Njuguna)
+
+#### Francis Kahura Njuguna
+
+- *Role*:  Member
+- *GitHub*: [@Francis-2030](https://github.com/Francis-2030)
