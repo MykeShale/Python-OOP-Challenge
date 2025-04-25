@@ -1,5 +1,7 @@
 import pet
 import time
+
+
 """
 - This is a simple pet simulator program that allows users to create a pet and interact with it.
 - The user can feed the pet, play with it, teach it tricks, and check its status.
@@ -39,7 +41,7 @@ while True:
     print("Available options:")
     print("1. 🍖 Feed your pet")
     print("2. ⚽ Play with your pet")
-    print("3. ✍️  Teach your pet a trick")
+    print("3. ✍  Teach your pet a trick")
     print("4. 📃 Check your pet's status")
     print("5. 😴 Allow your pet to sleep")
     print("6. 📃 Display all tricks your pet knows")
@@ -110,4 +112,5 @@ print("Closing the Pet simulator", end="")
 for i in range(3):
     print(".", end="")
     time.sleep(1)
+
 print("\nGoodbye!")
